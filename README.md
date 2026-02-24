@@ -7,4 +7,4 @@ Android SDK for install attribution using Google Play Install Referrer API.
 Add dependency:
 
 ```gradle
-implementation("com.github.sandeeppopbrain-android:PopbrainAdsSdk:1.0.0")
+implementation("com.github.sandeeppopbrain-android:PopbrainAdsSdk:LatestVersion")
